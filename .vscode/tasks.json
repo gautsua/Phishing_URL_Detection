@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Phishing Detection App",
+			"type": "shell",
+			"command": "streamlit run randomforest.py",
+			"isBackground": true
+		}
+	]
+}
